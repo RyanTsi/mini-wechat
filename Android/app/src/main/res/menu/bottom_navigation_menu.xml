@@ -1,0 +1,12 @@
+<!-- bottom_navigation_menu.xml -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_friends"
+        android:icon="@drawable/friends"
+        android:title="Friends" />
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+</menu>
